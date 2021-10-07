@@ -1,1 +1,569 @@
-a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}html{height:100%}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:"";content:none}table{border-collapse:collapse;border-spacing:0}a,a:active{text-decoration:none;color:#000}button{padding:0;border:none;font:inherit;color:inherit;background-color:transparent}@font-face{font-family:Pacifico;font-style:normal;font-weight:400;src:url(fonts/Pacifico.woff2) format('woff2')}.site__wraper{width:100%;margin:0 auto}.header{background-image:url(/img/bg.jpg);background-position:center;background-repeat:no-repeat;background-size:cover;width:100%}.container{width:940px;margin:0 auto}.header__block{display:flex;flex-direction:column;justify-content:space-between;align-items:center;height:768px}.header__logo{margin-top:40px;width:111px;height:23px;background-image:url(/img/projeco-logo.png);background-repeat:no-repeat;background-size:cover}.header__title{display:flex;flex-direction:column;justify-content:center;align-items:center}.header__title h1{font-family:'Bebas Neue',sans-serif;font-size:60px;line-height:70px;letter-spacing:5.70937px;color:#fff}.header__title p{font-family:'Open Sans',sans-serif;font-style:normal;font-weight:600;font-size:16px;line-height:22px;letter-spacing:1.2;color:#fff}.header__bottom{margin-bottom:71px;font-family:'Open Sans',sans-serif;font-style:normal;font-weight:600;font-size:11px;line-height:15px;letter-spacing:3.7px;color:#fff}.nav__container{width:100%;height:65px;display:flex;justify-content:center;border-bottom:1px solid #e6e6e6;margin-bottom:57px}.nav__block{width:940px;height:100%;display:flex;justify-content:space-between;align-items:center}.nav__logo{width:80px;height:18px;background-image:url(/img/projeco-logo-black.png);background-repeat:no-repeat;background-size:cover;background-position:center}.nav__list{display:flex;justify-content:space-between;width:400px}.nav__list-link{font-family:'Open Sans',sans-serif;font-style:normal;font-weight:600;font-size:12px;line-height:16px;letter-spacing:1.09091px;color:#48555b;text-transform:uppercase;transition:color .3s}.nav__list-link:hover{transition:color .3s;color:#00a4e5}.about{margin-bottom:118px}.about__title{font-family:"Open Sans",sans-serif;text-transform:uppercase;font-style:normal;font-weight:700;font-size:18px;line-height:25px;text-align:center;letter-spacing:2.30625px;color:#48555b;margin-bottom:10px}.border-div{margin-left:445px;margin-right:445px;width:50px;height:2px;border-bottom:2px solid #00a4e5;margin-bottom:100px}.about__blocks{display:flex;align-items:flex-end}.about__texts{padding-right:45px;width:405px;font-family:"Open Sans",sans-serif;letter-spacing:.1875px;color:#48555b}.about__texts h3{font-style:normal;font-weight:700;font-size:20px;line-height:27px;margin-bottom:30px}.about__texts h3 a{color:#00a4e5}.about__texts p{font-style:normal;font-weight:400;font-size:13px;line-height:23px}.about__images{display:flex;justify-content:space-between;width:490px}.about__image-block{position:relative}.about__image-block p{position:absolute;padding-top:23px;padding-left:17px;padding-right:15px;font-family:"Open Sans",sans-serif;font-style:normal;font-weight:800;font-size:24px;line-height:29px;letter-spacing:.1875px;color:#fff}.services__header{display:flex;justify-content:space-between;margin-bottom:78px}.header__title-buttom h3{font-family:"Open Sans",sans-serif;font-style:normal;font-weight:700;font-size:18px;letter-spacing:2.30625px;color:#48555b;padding-right:135px}.border-buttom{margin-top:10px;width:50px;height:2px;border-bottom:2px solid #00a4e5}.services__header p{width:405px;font-family:"Open Sans",sans-serif;font-style:normal;font-weight:400;font-size:11px;line-height:19px;letter-spacing:.2px}.btn{cursor:pointer;width:190px;height:40px;padding:11px;font-family:"Open Sans",sans-serif;font-style:normal;font-weight:700;font-size:13px;text-align:center;letter-spacing:.5px;color:#fff;background-color:#00a4e5;transition:color .3s}.btn:hover{background-color:#0475a1;transition:color .3s}.services__main{display:flex;width:100%;justify-content:space-between}.services__main-block{margin-right:28px;width:295px;height:330px;padding:0 21px;border:1px solid #e6e6e6;margin-bottom:115px}.services__main-block:last-child{margin-right:0}.main__images{padding-top:38px;width:65px;height:75px;margin-bottom:25px}.services__main-block h3{font-family:"Open Sans",sans-serif;font-style:normal;font-weight:700;font-size:16px;line-height:24px;letter-spacing:.426667px;margin-bottom:13px;color:#48555b}.services__main-block p{font-family:"Open Sans",sans-serif;font-style:normal;font-weight:400;font-size:13px;line-height:23px;letter-spacing:.1875px;color:#48555b}.get{background-image:url(/img/bg-2.jpg);background-repeat:no-repeat;background-size:cover;background-position:center}.get__main{width:100%;height:500px;display:flex;flex-direction:column;align-items:center}.get__main h2{margin-bottom:35px;padding-top:120px;text-align:center;width:350px;font-family:'Open Sans',sans-serif;font-style:normal;font-weight:700;font-size:30px;letter-spacing:.15px;color:#48555b}.newsletter{background-color:#171819}.newsletter__blocks{display:flex;justify-content:center;align-items:center}.newsletter__title{padding:35px 70px 35px 0;font-family:"Open Sans",sans-serif;font-style:normal;font-weight:700;font-size:22px;letter-spacing:.846154px;color:#fff}.newsletter__form{display:flex;margin:0;padding:0}.form__input{height:34px;width:250px}.newsletter__btn{height:40px;width:150px}.footer{width:100%;background:#141a20}.footer a,.footer p{font-family:'Open Sans',sans-serif;font-style:normal;font-weight:400;font-size:11px;line-height:19px;letter-spacing:.85px;color:#fff;transition:color .3s ease-in-out}.footer a:hover{color:#00a4e5;transition:color .3s ease-in-out}.top__block{padding-top:42px;margin-bottom:50px;display:flex;background:#141a20}.item__company{width:250px;margin-right:70px}.footer__logo{margin-top:20px;margin-bottom:20px;width:84px;height:14px;background-image:url(/img/projeco-logo.png);background-size:cover;background-repeat:no-repeat;background-position:center}.item__links{width:76px;display:flex;flex-direction:column;justify-content:space-between;margin-right:34px;padding-bottom:70px}.item__blog,.item__faq{padding-top:67px;margin-bottom:20px;padding-bottom:120px;margin-right:38px}.item__contact{width:140px;display:flex;flex-direction:column;justify-content:space-between;margin-right:34px;padding-bottom:70px}.item__icons{padding-top:72px;display:flex}.icon-fb{width:20px;height:20px;background-image:url(/img/logo_fb.png);background-position:center;background-size:cover;background-repeat:no-repeat;margin-right:25px}.icon-tw{width:20px;height:20px;background-image:url(/img/logo-tw.png);background-position:center;background-size:cover;background-repeat:no-repeat;margin-right:25px}.icon-gg{width:20px;height:20px;background-image:url(/img/logo_gl.png);background-position:center;background-size:cover;background-repeat:no-repeat}.bottom__block{margin:0 auto;width:100%;padding:23px 0;background:#171819;text-align:center;color:#fff}.up{text-transform:uppercase;display:flex;flex-direction:column}
+a,
+abbr,
+acronym,
+address,
+applet,
+article,
+aside,
+audio,
+b,
+big,
+blockquote,
+body,
+canvas,
+caption,
+center,
+cite,
+code,
+dd,
+del,
+details,
+dfn,
+div,
+dl,
+dt,
+em,
+embed,
+fieldset,
+figcaption,
+figure,
+footer,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+hgroup,
+html,
+i,
+iframe,
+img,
+ins,
+kbd,
+label,
+legend,
+li,
+mark,
+menu,
+nav,
+object,
+ol,
+output,
+p,
+pre,
+q,
+ruby,
+s,
+samp,
+section,
+small,
+span,
+strike,
+strong,
+sub,
+summary,
+sup,
+table,
+tbody,
+td,
+tfoot,
+th,
+thead,
+time,
+tr,
+tt,
+u,
+ul,
+var,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+html {
+  height: 100%;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:after,
+blockquote:before,
+q:after,
+q:before {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+a,
+a:active {
+  text-decoration: none;
+  color: #000;
+}
+button {
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+}
+@font-face {
+  font-family: Pacifico;
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Pacifico.woff2) format('woff2');
+}
+.site__wraper {
+  width: 100%;
+  margin: 0 auto;
+}
+.header {
+  background-image: url('img/bg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.container {
+  width: 940px;
+  margin: 0 auto;
+}
+.header__block {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 768px;
+}
+.header__logo {
+  margin-top: 40px;
+  width: 111px;
+  height: 23px;
+  background-image: url('./img/projeco-logo.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header__title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.header__title h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 60px;
+  line-height: 70px;
+  letter-spacing: 5.70937px;
+  color: #fff;
+}
+.header__title p {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 1.2;
+  color: #fff;
+}
+.header__bottom {
+  margin-bottom: 71px;
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 11px;
+  line-height: 15px;
+  letter-spacing: 3.7px;
+  color: #fff;
+}
+.nav__container {
+  width: 100%;
+  height: 65px;
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid #e6e6e6;
+  margin-bottom: 57px;
+}
+.nav__block {
+  width: 940px;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav__logo {
+  width: 80px;
+  height: 18px;
+  background-image: url(/img/projeco-logo-black.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.nav__list {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+}
+.nav__list-link {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 1.09091px;
+  color: #48555b;
+  text-transform: uppercase;
+  transition: color 0.3s;
+}
+.nav__list-link:hover {
+  transition: color 0.3s;
+  color: #00a4e5;
+}
+.about {
+  margin-bottom: 118px;
+}
+.about__title {
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  letter-spacing: 2.30625px;
+  color: #48555b;
+  margin-bottom: 10px;
+}
+.border-div {
+  margin-left: 445px;
+  margin-right: 445px;
+  width: 50px;
+  height: 2px;
+  border-bottom: 2px solid #00a4e5;
+  margin-bottom: 100px;
+}
+.about__blocks {
+  display: flex;
+  align-items: flex-end;
+}
+.about__texts {
+  padding-right: 45px;
+  width: 405px;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 0.1875px;
+  color: #48555b;
+}
+.about__texts h3 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+  margin-bottom: 30px;
+}
+.about__texts h3 a {
+  color: #00a4e5;
+}
+.about__texts p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 23px;
+}
+.about__images {
+  display: flex;
+  justify-content: space-between;
+  width: 490px;
+}
+.about__image-block {
+  position: relative;
+}
+.about__image-block p {
+  position: absolute;
+  padding-top: 23px;
+  padding-left: 17px;
+  padding-right: 15px;
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 29px;
+  letter-spacing: 0.1875px;
+  color: #fff;
+}
+.services__header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 78px;
+}
+.header__title-buttom h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 2.30625px;
+  color: #48555b;
+  padding-right: 135px;
+}
+.border-buttom {
+  margin-top: 10px;
+  width: 50px;
+  height: 2px;
+  border-bottom: 2px solid #00a4e5;
+}
+.services__header p {
+  width: 405px;
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 19px;
+  letter-spacing: 0.2px;
+}
+.btn {
+  cursor: pointer;
+  width: 190px;
+  height: 40px;
+  padding: 11px;
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  color: #fff;
+  background-color: #00a4e5;
+  transition: color 0.3s;
+}
+.btn:hover {
+  background-color: #0475a1;
+  transition: color 0.3s;
+}
+.services__main {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.services__main-block {
+  margin-right: 28px;
+  width: 295px;
+  height: 330px;
+  padding: 0 21px;
+  border: 1px solid #e6e6e6;
+  margin-bottom: 115px;
+}
+.services__main-block:last-child {
+  margin-right: 0;
+}
+.main__images {
+  padding-top: 38px;
+  width: 65px;
+  height: 75px;
+  margin-bottom: 25px;
+}
+.services__main-block h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.426667px;
+  margin-bottom: 13px;
+  color: #48555b;
+}
+.services__main-block p {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 23px;
+  letter-spacing: 0.1875px;
+  color: #48555b;
+}
+.get {
+  background-image: url(/img/bg-2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.get__main {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.get__main h2 {
+  margin-bottom: 35px;
+  padding-top: 120px;
+  text-align: center;
+  width: 350px;
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  letter-spacing: 0.15px;
+  color: #48555b;
+}
+.newsletter {
+  background-color: #171819;
+}
+.newsletter__blocks {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.newsletter__title {
+  padding: 35px 70px 35px 0;
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  letter-spacing: 0.846154px;
+  color: #fff;
+}
+.newsletter__form {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+.form__input {
+  height: 34px;
+  width: 250px;
+}
+.newsletter__btn {
+  height: 40px;
+  width: 150px;
+}
+.footer {
+  width: 100%;
+  background: #141a20;
+}
+.footer a,
+.footer p {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 19px;
+  letter-spacing: 0.85px;
+  color: #fff;
+  transition: color 0.3s ease-in-out;
+}
+.footer a:hover {
+  color: #00a4e5;
+  transition: color 0.3s ease-in-out;
+}
+.top__block {
+  padding-top: 42px;
+  margin-bottom: 50px;
+  display: flex;
+  background: #141a20;
+}
+.item__company {
+  width: 250px;
+  margin-right: 70px;
+}
+.footer__logo {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 84px;
+  height: 14px;
+  background-image: url(/img/projeco-logo.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.item__links {
+  width: 76px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-right: 34px;
+  padding-bottom: 70px;
+}
+.item__blog,
+.item__faq {
+  padding-top: 67px;
+  margin-bottom: 20px;
+  padding-bottom: 120px;
+  margin-right: 38px;
+}
+.item__contact {
+  width: 140px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-right: 34px;
+  padding-bottom: 70px;
+}
+.item__icons {
+  padding-top: 72px;
+  display: flex;
+}
+.icon-fb {
+  width: 20px;
+  height: 20px;
+  background-image: url(/img/logo_fb.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-right: 25px;
+}
+.icon-tw {
+  width: 20px;
+  height: 20px;
+  background-image: url(/img/logo-tw.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-right: 25px;
+}
+.icon-gg {
+  width: 20px;
+  height: 20px;
+  background-image: url(/img/logo_gl.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bottom__block {
+  margin: 0 auto;
+  width: 100%;
+  padding: 23px 0;
+  background: #171819;
+  text-align: center;
+  color: #fff;
+}
+.up {
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+}
