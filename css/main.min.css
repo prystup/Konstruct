@@ -168,7 +168,7 @@ button {
   margin-top: 40px;
   width: 111px;
   height: 23px;
-  background-image: url('img/projeco-logo.png');
+  background-image: url(img/projeco-logo.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -222,7 +222,7 @@ button {
 .nav__logo {
   width: 80px;
   height: 18px;
-  background-image: url(/img/projeco-logo-black.png);
+  background-image: url(img/projeco-logo-black.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -408,7 +408,7 @@ button {
   color: #48555b;
 }
 .get {
-  background-image: url(/img/bg-2.jpg);
+  background-image: url(img/bg-2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -496,7 +496,7 @@ button {
   margin-bottom: 20px;
   width: 84px;
   height: 14px;
-  background-image: url(/img/projeco-logo.png);
+  background-image: url(img/projeco-logo.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -531,7 +531,7 @@ button {
 .icon-fb {
   width: 20px;
   height: 20px;
-  background-image: url(/img/logo_fb.png);
+  background-image: url(img/logo_fb.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -540,7 +540,7 @@ button {
 .icon-tw {
   width: 20px;
   height: 20px;
-  background-image: url(/img/logo-tw.png);
+  background-image: url(img/logo-tw.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -549,7 +549,7 @@ button {
 .icon-gg {
   width: 20px;
   height: 20px;
-  background-image: url(/img/logo_gl.png);
+  background-image: url(img/logo_gl.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
