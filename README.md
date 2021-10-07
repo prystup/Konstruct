@@ -4,12 +4,12 @@ very simple landing page
 
 mistakes and shortcomings:
 ```
- no adaptive for mobile
- png instead of svg
- no altetnative texts for img
- and other errors...
+- no adaptive for mobile
+- png instead of svg
+- no altetnative texts for img
+- and other errors...
 ```
 
 
 
-![Preview](Konstruct/screen(Konstrust).png)
+![Preview](screen(Konstrust).png)
